@@ -17,7 +17,12 @@ namespace hafta5
         { 
             string DosyaAdi;
 
-            
+            Console.WriteLine("Menüyü Kapatmak için 0'a basınız");
+            Console.WriteLine("1-Dosya Oluşturma/Dosyaya Ekleme Yapma");
+            Console.WriteLine("2-Dosya Okuma");
+            Console.WriteLine("3-Dosya Silme");
+            Console.WriteLine("4-Dosya Yazma(StreamWriter)");
+            Console.WriteLine("5-Dosya Okuma(StreamReader)");
 
 
 
